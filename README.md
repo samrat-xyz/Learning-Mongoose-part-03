@@ -1,7 +1,8 @@
-# Mongoose Starter Project 
+# Getting Started with Mongoose (Lesson 03)
+
 
 This is a beginner-friendly Node.js project to learn **Mongoose with Express**.
-Here we connect MongoDB using Mongoose and create a basic **User API**.
+Here we connect MongoDB using Mongoose and make user & product schema.
 
 ---
 
@@ -10,7 +11,6 @@ Here we connect MongoDB using Mongoose and create a basic **User API**.
 - Express server setup
 - MongoDB connection using Mongoose
 - User & Product schema & model
-
 - Environment variable support using dotenv
 
 ---
